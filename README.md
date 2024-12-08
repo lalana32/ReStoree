@@ -1,6 +1,6 @@
 # Untappd
 
-**ReStoree** is a web store for skiing equipment, designed to provide a seamless shopping experience for winter sports enthusiasts. The application offers a comprehensive catalog, shopping cart functionality, and a user-friendly admin dashboard for managing inventory. This project was developed while following a web development course to demonstrate my full-stack development skills.
+**ReStoree** is a web store for skiing equipment, designed to provide a seamless shopping experience for winter sports enthusiasts. The application offers a comprehensive catalog, shopping cart functionality, and a user-friendly admin dashboard for managing inventory. This project was developed while following a web development course.
 
 ## Technologies
 
